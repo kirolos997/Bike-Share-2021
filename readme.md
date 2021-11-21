@@ -6,22 +6,22 @@
 
 > This data set includes information about individual rides made in a bike-sharing system.
 Each trip includes:
->>duration_sec : trip duration time taken
->>start_time : the start time of the trip
->>end_time : the end time of the trip after starting
->>start_station_id : the id of the sart station
->>start_station_name : the name of the start station
-*start_station_latitude : the latitude of the start station on the map
-*start_station_longitude : the longitude of the start station on the map
-*end_station_id : the id of the end station
-*end_station_name : the name of the end station
-*end_station_latitude: the latitude of the end station on the map
-*end_station_longitude: the longitude of the end station on the map
-*bike_id: the bike id used in the trip
-*user_type : the user type (customer or subscriber)
-*member_birth_year : the birth date of the user
-*member_gender : gender of the user
-*bike_share_for_all_trip : bie share for trip (yes or no)
+ 0   duration_sec : trip duration time taken <br />
+ 1   start_time : the start time of the trip<br />
+ 2   end_time : the end time of the trip after starting<br />
+ 3   start_station_id : the id of the sart station<br />
+ 4   start_station_name : the name of the start station<br />
+ 5   start_station_latitude : the latitude of the start station on the map <br />
+ 6   start_station_longitude :  the longitude of the start station on the map <br />
+ 7   end_station_id : the id of the end station<br />
+ 8   end_station_name : the name of the end station    
+ 9   end_station_latitude: the latitude of the end station on the map <br />
+ 10  end_station_longitude: the longitude of the end station on the map <br />
+ 11  bike_id: the bike id used in the trip <br />
+ 12  user_type : the user type (customer or subscriber)<br /> 
+ 13  member_birth_year : the birth date of the user <br />
+ 14  member_gender : gender of the user <br /> 
+ 15  bike_share_for_all_trip : bie share for trip (yes or no)<br />
 
 ## Summary of Findings
 
