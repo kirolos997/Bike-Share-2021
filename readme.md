@@ -7,7 +7,7 @@
 > This data set includes information about individual rides made in a bike-sharing system.
 Each trip includes:
 >duration_sec : trip duration time taken
-*start_time : the start time of the trip
+**start_time : the start time of the trip**
 *end_time : the end time of the trip after starting
 *start_station_id : the id of the sart station
 *start_station_name : the name of the start station
