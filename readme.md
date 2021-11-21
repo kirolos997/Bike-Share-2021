@@ -8,9 +8,9 @@
 Each trip includes:
 >>duration_sec : trip duration time taken
 >>start_time : the start time of the trip
-*end_time : the end time of the trip after starting
-*start_station_id : the id of the sart station
-*start_station_name : the name of the start station
+>>end_time : the end time of the trip after starting
+>>start_station_id : the id of the sart station
+>>start_station_name : the name of the start station
 *start_station_latitude : the latitude of the start station on the map
 *start_station_longitude : the longitude of the start station on the map
 *end_station_id : the id of the end station
